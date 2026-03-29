@@ -1,0 +1,9 @@
+Package: com.shtm.lepaohelper
+Name: LepaoHelper
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: 乐跑助手 - 跑步辅助工具
+Maintainer: shtm
+Author: shtm
+Section: Tweaks
+Depends: mobilesubstrate
