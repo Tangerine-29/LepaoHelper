@@ -14,7 +14,7 @@ include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = LepaoHelper
 
-LepaoHelper_FILES = LepaoControllerUI.xm LepaoHooks.xm
+LepaoHelper_FILES = LepaoAntiCheat.xm
 LepaoHelper_CFLAGS = -fobjc-arc
 LepaoHelper_FRAMEWORKS = UIKit CoreLocation
 

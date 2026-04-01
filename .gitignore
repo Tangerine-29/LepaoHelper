@@ -1,0 +1,11 @@
+# Headers (generated, not for distribution)
+lepaotiyu_headers/
+
+# macOS
+.DS_Store
+*.swp
+
+# Theos build artifacts
+.theos/
+packages/
+obj/
